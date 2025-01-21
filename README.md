@@ -31,6 +31,18 @@ git clone https://github.com/ankushseal/AI-driven-automated-process-to-fine-tune
 streamlit run main.py
 ```
 
+### Input
+
+![image](https://github.com/user-attachments/assets/0bd2acc2-f09a-4646-9a62-6ea9c9ee06d4)
+
+### Output
+
+![image](https://github.com/user-attachments/assets/b7874bdb-6c1f-4e79-a030-73b764e21688)
+
+![image](https://github.com/user-attachments/assets/372ed9b8-a573-4c48-8f09-8c58527d2b04)
+
+
+
 ### License
 
 This project is licensed under the MIT License.
